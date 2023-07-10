@@ -1,0 +1,58 @@
+/*section*/    
+/*img*/
+/*h1*/
+/*div*/
+/*p*/
+body {
+  background-color: black;
+}
+
+section {
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+  margin-bottom: 50px;
+}
+
+img {
+  width: 250px;
+  margin: 20px;
+  border-radius: 4px;
+  filter: grayscale(100%);
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  font-family: Monospace;
+}
+
+div {
+  background-color: white;
+  margin: auto;
+  margin-bottom: 30px;
+  cursor: pointer;
+  padding: 5px;
+}
+
+p {
+  text-align: justify;
+  text-indent: 10px;
+  font-size: 18px;
+  font-family: Verdana;
+  color: black;
+}
+
+a {
+  text-decoration-line: none;
+  margin: auto;
+}
+
+.h1_filosofo {
+  font-family: Monospace;
+}
+
+/*# sourceMappingURL=styles.css.map */
